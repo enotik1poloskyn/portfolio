@@ -1,4 +1,4 @@
-## Нужно спрогнозировать уйдет ли клиент от оператора или нет.
+## Прогноз оттока.
 
 <b>Стек:</b> pandas, matplotlib, numpy, sklearn, lightgbm, Catboost
 
