@@ -1,13 +1,6 @@
 ## Нужно спрогнозировать уйдет ли клиент от оператора или нет.
 
-<b>Стек:</b>
- - pandas
- - matplotlib
- - numpy
- -  Для обучения.
-   -- sklearn
-   -- lightgbm
-   -- Catboost
+<b>Стек:</b> pandas, matplotlib, numpy, sklearn, lightgbm, Catboost
 
 
 Таблица <b>contract</b>
