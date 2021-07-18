@@ -3,4 +3,4 @@
 
 ### Проекты
  -  price of the auto
- -  telecom
+ -  telecom - Прогноз оттока для телеком компании.
