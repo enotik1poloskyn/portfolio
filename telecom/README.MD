@@ -5,9 +5,9 @@
  - matplotlib
  - numpy
  -  Для обучения.
-   - sklearn
-   - lightgbm
-   - Catboost
+   -- sklearn
+   -- lightgbm
+   -- Catboost
 
 
 Таблица <b>contract</b>
